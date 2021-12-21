@@ -1,0 +1,8 @@
+main.c:54:6:OneKey	16	static
+main.c:63:6:NoKey	0	static
+main.c:67:6:loopA	0	static
+main.c:71:6:loopB	0	static
+main.c:75:6:loopC	0	static
+main.c:304:6:SystemClock_Config	88	static,ignoring_inline_asm
+main.c:79:5:main	40	static
+main.c:373:6:Error_Handler	0	static,ignoring_inline_asm
